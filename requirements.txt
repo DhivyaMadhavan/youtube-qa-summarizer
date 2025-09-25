@@ -1,0 +1,13 @@
+youtube_transcript_api
+pytube
+deepmultilingualpunctuation 
+groq 
+python-dotenv 
+langchain 
+langchain_community 
+sentence-transformers 
+langchain-text-splitters 
+faiss-cpu 
+gradio 
+langchain_huggingface 
+langchain_groq
